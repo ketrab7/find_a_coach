@@ -28,8 +28,8 @@
 export default {
     data() {
         return {
-            email: '',          //test@test.pl
-            password: '',       //1qaz2wsx
+            email: '',
+            password: '',
             formIsValid: true,
             mode: 'login',
             isLoading: false,
